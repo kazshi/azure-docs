@@ -36,7 +36,7 @@ You start by creating a simple runbook that outputs the text *Hello World*.
 
 1. In the Azure portal, open your Automation account.
 2. Click **Runbooks** under **Process Automation** to open the list of runbooks.
-3. Create a new runbook by clicking the **+ Add a runbook** button and then **Create a new runbook**.
+3. Create a new runbook by clicking the **+ Create a runbook** button and then **Create a new runbook**.
 4. Give the runbook the name *MyFirstRunbook-PowerShell*.
 5. In this case, you're going to create a [PowerShell runbook](automation-runbook-types.md#powershell-runbooks) so select **Powershell** for **Runbook type**.
 6. Click **Create** to create the runbook and open the textual editor.
